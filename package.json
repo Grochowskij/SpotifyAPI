@@ -1,0 +1,14 @@
+{
+  "name": "SpotifyAPI",
+  "version": "1.0.0",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "jquery": "^3.6.0",
+    "request": "^2.88.2",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
